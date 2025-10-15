@@ -99,6 +99,7 @@
 </p>
 <p align="center" style="margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/FigJam-ffffff?style=flat&logo=figma&logoColor=black" alt="FigJam" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" alt="Adobe XD" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white" alt="Sketch" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer" style="margin: 5px;" />
